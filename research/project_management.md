@@ -31,6 +31,8 @@ Expect weekly update and weekly design review.
   - System Documentation
     - Each System Need a detailed documentation and a log tracking architecture changes
     - Log for each design review
+    - Manufacture Instructions
+    - Testing Logs
   - Product White Paper
 
 Simulink for high-level control level and overall system modelling.
